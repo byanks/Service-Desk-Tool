@@ -8,7 +8,7 @@ using System.DirectoryServices.AccountManagement;
 using System.Management;
 using System.Net;
 
-//Developed by: Byanka Kirkwood - Service Desk Engineer
+//Developed by: Byanka - Service Desk Engineer
 //Feb 2019
 
 namespace SDTool
